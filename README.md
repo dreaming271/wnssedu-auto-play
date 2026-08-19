@@ -1,5 +1,7 @@
 # wnssedu 课程自动连播
 
+[![Install](https://img.shields.io/badge/安装-一键安装脚本-blue)](https://github.com/dreaming271/wnssedu-auto-play/raw/main/wnssedu-auto-play.user.js)
+
 华南理工大学网络教育平台（`scut.wnssedu.com`）看课任务自动连播油猴脚本。
 
 > **挂机真播，不刷进度、不加速、不伪造观看记录** —— 视频按原速真实播放完，脚本只负责帮你完成「点下一节 / 切下一章」这个重复动作，稳、慢、但省心。
@@ -26,8 +28,8 @@
    - Chrome / Edge：[Chrome 应用商店](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
    - Firefox：[Firefox 附加组件](https://addons.mozilla.org/firefox/addon/tampermonkey/)
 2. 安装本脚本（任选其一）：
-   - 直接打开 `wnssedu-auto-play.user.js`，Tampermonkey 弹出安装页，点「安装」
-   - 或在 Tampermonkey 管理面板「新建脚本」，把脚本内容整体粘贴进去保存
+   - **一键安装**：点击 [安装 wnssedu-auto-play.user.js](https://github.com/dreaming271/wnssedu-auto-play/raw/main/wnssedu-auto-play.user.js)，Tampermonkey 自动弹出安装页，点「安装」
+   - 或下载仓库里的 `wnssedu-auto-play.user.js`，在 Tampermonkey 管理面板「新建脚本」里整体粘贴保存
 
 ## 🚀 使用
 
